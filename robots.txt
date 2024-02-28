@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cnova.de/sitemap.xml
+Sitemap: https://lichtbringer.blog/sitemap.xml
