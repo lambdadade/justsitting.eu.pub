@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>:::lichtbringer.blog</title><link>https://lichtbringer.blog/</link><description>Recent content on :::lichtbringer.blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lichtbringer.blog/index.xml" rel="self" type="application/rss+xml"/><item><title>building gh pages sites from withing a private repository</title><link>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</link><pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</guid><description>&lt;p>
-trying this solution
+To protect my source repo for hugo based static websites, I am trying this solution:
 &lt;a href="https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started">https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&lt;/a>&lt;/p></description></item><item><title>Norway</title><link>https://lichtbringer.blog/post/2023_cinema/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2023_cinema/</guid><description>&lt;p>
 50 miles per hour
 &lt;br />
