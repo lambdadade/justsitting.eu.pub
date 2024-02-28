@@ -1,25 +1,299 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge,chrome=1"><title>:::lichtbringer.blog</title><meta name=renderer content="webkit"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><meta http-equiv=cache-control content="no-transform"><meta http-equiv=cache-control content="no-siteapp"><meta name=theme-color content="#f8f5ec"><meta name=msapplication-navbutton-color content="#f8f5ec"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="#f8f5ec"><meta name=author content="Cl4rk NovA"><meta name=description content="cnova weblog"><meta name=generator content="Hugo 0.110.0 with theme even"><link rel=canonical href=https://lichtbringer.blog/><link href=https://lichtbringer.blog/index.xml rel=alternate type=application/rss+xml title=:::lichtbringer.blog><link href=https://lichtbringer.blog/index.xml rel=feed type=application/rss+xml title=:::lichtbringer.blog><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/manifest.json><link rel=mask-icon href=/safari-pinned-tab.svg color=#5bbad5><link href=/sass/main.min.be27fb1e475a0f6fdc5012d2831d7555f5c5671c943d202db96e251648541966.css rel=stylesheet><link rel=stylesheet href=nocdn/jquery.fancybox.min.css integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin=anonymous><meta property="og:title" content=":::lichtbringer.blog"><meta property="og:description" content="cnova weblog"><meta property="og:type" content="website"><meta property="og:url" content="https://lichtbringer.blog/"><meta itemprop=name content=":::lichtbringer.blog"><meta itemprop=description content="cnova weblog"><meta name=twitter:card content="summary"><meta name=twitter:title content=":::lichtbringer.blog"><meta name=twitter:description content="cnova weblog"><!--[if lte IE 9]><script src=nocdn/classList.min.js></script><![endif]--><!--[if lt IE 9]><script src=nocdn/html5shiv.min.js></script>
-<script src=nocdn/respond.min.js></script><![endif]--></head><body><div id=mobile-navbar class=mobile-navbar><div class=mobile-header-logo><a href=/ class=logo>lichtbringer.blog</a></div><div class=mobile-navbar-icon><span></span>
-<span></span>
-<span></span></div></div><nav id=mobile-menu class="mobile-menu slideout-menu"><ul class=mobile-menu-list><a href=/><li class=mobile-menu-item>/#Shards</li></a><a href=/set/><li class=mobile-menu-item>/#Sets</li></a><a href=/about/><li class=mobile-menu-item>/about</li></a></ul></nav><div class=container id=mobile-panel><header id=header class=header><div class=logo-wrapper><a href=/ class=logo>lichtbringer.blog</a></div><nav class=site-navbar><ul id=menu class=menu><li class=menu-item><a class=menu-item-link href=/>/#Shards</a></li><li class=menu-item><a class=menu-item-link href=/set/>/#Sets</a></li><li class=menu-item><a class=menu-item-link href=/about/>/about</a></li></ul></nav><div style=clear:both></div><div class=tagline-navbar></div></header><main id=main class=main><div class=content-wrapper><div id=content class=content><section id=posts class=posts><article class=post><header class=post-header><h1 class=post-title><a class=post-link href=/post/2024_gh_pages_from_prv_repo/>building gh pages sites from withing a private repository</a></h1><div class=post-meta><span class=post-time>2024-02-28</span></div></header><div class=post-content><div class=post-summary><p>To protect my source repo for hugo based static websites, I am trying this solution:
-<a href="https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started">https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started</a></p></div></div></article><article class=post><header class=post-header><h1 class=post-title><a class=post-link href=/post/2023_cinema/>Norway</a></h1><div class=post-meta><span class=post-time>2023-07-30</span></div></header><div class=post-content><div class=post-summary><p>50 miles per hour<br>My guideline for the day.<br>Enjoy the flow.<br>Large panorama open-air cinema time.<br>In real.</p></div></div></article><article class=post><header class=post-header><h1 class=post-title><a class=post-link href=/post/first_plates/>First Plates</a></h1><div class=post-meta><span class=post-time>2022-05-16</span></div></header><div class=post-content><div class=post-summary><p>learning the wet plate collodion process.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>:::lichtbringer.blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="Cl4rk NovA" /><meta name="description" content="cnova weblog" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.110.0 with theme even" />
+
+
+<link rel="canonical" href="https://lichtbringer.blog/" />
+  <link href="https://lichtbringer.blog/index.xml" rel="alternate" type="application/rss+xml" title=":::lichtbringer.blog" />
+  <link href="https://lichtbringer.blog/index.xml" rel="feed" type="application/rss+xml" title=":::lichtbringer.blog" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.be27fb1e475a0f6fdc5012d2831d7555f5c5671c943d202db96e251648541966.css" rel="stylesheet">
+<link rel="stylesheet" href="nocdn/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content=":::lichtbringer.blog" />
+<meta property="og:description" content="cnova weblog" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://lichtbringer.blog/" />
+<meta itemprop="name" content=":::lichtbringer.blog">
+<meta itemprop="description" content="cnova weblog"><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=":::lichtbringer.blog"/>
+<meta name="twitter:description" content="cnova weblog"/>
+
+<!--[if lte IE 9]>
+  <script src="nocdn/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="nocdn/html5shiv.min.js"></script>
+  <script src="nocdn/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">lichtbringer.blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">/#Shards</li>
+      </a><a href="/set/">
+        <li class="mobile-menu-item">/#Sets</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">/about</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">lichtbringer.blog</a>
+
+</div>
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">/#Shards</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/set/">/#Sets</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">/about</a>
+      </li>
+  </ul>
+</nav>
+
+
+
+<div style="clear:both;"></div>
+<div class="tagline-navbar">
+        
+        
+</div>
+
+
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <section id="posts" class="posts">
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/2024_gh_pages_from_prv_repo/">building gh pages sites from withing a private repository</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2024-02-28 </span>
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      <p>
+To protect my source repo for hugo based static websites, I am trying this solution:
+<a href="https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started">https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started</a></p>
+    </div></div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/2023_cinema/">Norway</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2023-07-30 </span>
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      <p>
+50 miles per hour
+<br />
+
+My guideline for the day.
+<br />
+
+Enjoy the flow.
+<br />
+
+Large panorama open-air cinema time.
+<br />
+
+In real.</p>
+    </div></div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/first_plates/">First Plates</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2022-05-16 </span>
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      <p>
+learning the wet plate collodion process.
 The first plates, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ thirty plates, glass and tintypes, to come to the first modest results.
 More than 30 plates with bugs and holes, scratches and fog. But the new ones are getting better and better.
 Some issues with expossure, some with the chemicals. But pouring the plates feels very natural now. I am realy surprised.
-There is still a long way to go and a lot to <em>develop</em> ;)</p><p><img src=/set/first_steps/img/wetplate_scan_synth_hut.jpg alt=/set/first_steps/img/wetplate_scan_synth_hut.jpg title=/set/first_steps/img/wetplate_scan_synth_hut.jpg></p><p><img src=/set/first_steps/img/wetplate_scan_Stilllive1.jpg alt=/set/first_steps/img/wetplate_scan_Stilllive1.jpg title=/set/first_steps/img/wetplate_scan_Stilllive1.jpg></p><p><img src=/set/first_steps/img/wetplate_scan_nuts.jpg alt=/set/first_steps/img/wetplate_scan_nuts.jpg title=/set/first_steps/img/wetplate_scan_nuts.jpg></p></div></div></article><article class=post><header class=post-header><h1 class=post-title><a class=post-link href=/post/home_darkroom/>my little darkroom inside my 7m² 'bureau'</a></h1><div class=post-meta><span class=post-time>2022-05-15</span></div></header><div class=post-content><div class=post-summary><p>This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;)
-So far it works pretty well for wet plate. Next days I will pimp it up a bit.</p><img src=/set/darkroom/img/signal-2022-05-16-220034_001.jpg alt=/set/darkroom/img/signal-2022-05-16-220034_001.jpg title="the cat!" width=300px>
-<img src=/set/darkroom/img/signal-2022-05-16-220034_002.jpg alt=/set/darkroom/img/signal-2022-05-16-220034_002.jpg title="the cat!" width=300px>
-<img src=/set/darkroom/img/signal-2022-05-16-220034_003.jpg alt=/set/darkroom/img/signal-2022-05-16-220034_003.jpg title="the cat!" width=300px><figure><img src=/set/darkroom/img/signal-2022-05-16-220034_004.jpg alt=/set/darkroom/img/signal-2022-05-16-220034_004.jpg title="the cat!" width=300px><figcaption>voice control microphone</figcaption></figure></div></div></article><article class=post><header class=post-header><h1 class=post-title><a class=post-link href=/post/mobile_darkroom/>Mobile Darkroom</a></h1><div class=post-meta><span class=post-time>2022-05-04</span></div></header><div class=post-content><div class=post-summary># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market. We arrived late, only a few dealers were left and most of all the stuff more or less had been boring.
-One stand stood out. There were old lockers from old eastern german NVA stocks, some old metal cabinets, a few suitcases and a lightweight, portable wooden box with metal fittings.</div><div class=read-more><a href=/post/mobile_darkroom/ class=read-more-link>Read more...</a></div></div></article></section><nav class=pagination><a class=next href=/page/2/><span class=next-text>Next</span>
-<i class="iconfont icon-right"></i></a></nav></div></div></main><footer id=footer class=footer><script src=nocdn/jquery-3.3.1.min.js integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin=anonymous></script>
-<script src=nocdn/jquery.fancybox.min.js></script>
-<link rel=stylesheet href=nocdn/jquery.fancybox.min.css><div class=social-links><a href=mailto:mars@lichtbringer.blog class="iconfont icon-email" title=email></a>
-<a href=https://lichtbringer.blog/index.xml type=application/rss+xml class="iconfont icon-rss" title=rss></a></div><div class=copyright><span class=power-by>Powered by the magic of <a class=hexo-link href=https://www.gnu.org/software/emacs/>Emacs</a> & <a class=hexo-link href=https://git-scm.com/>Gitea Actions</a> & <a class=hexo-link href=https://gohugo.io>Hugo</a></span>
-<span class=division></span>
-<span class=copyright-year>&copy;
-2021 -
-2024
-by <span>Cl4rk NovA</span></span></div></footer><div class=back-to-top id=back-to-top><i class="iconfont icon-up"></i></div></div><script src=nocdn/jquery.min.js integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin=anonymous></script>
-<script src=nocdn/slideout.min.js integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin=anonymous></script>
-<script src=nocdn/jquery.fancybox.min.js integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin=anonymous></script>
-<script type=text/javascript src=/js/main.min.4ae89da218555efa0e7093a20b92017d2e1202b66fff9fc2edf4cb8d44b44c6e.js></script></body></html>
+There is still a long way to go and a lot to <em>develop</em> ;) </p>
+<p><img src="/set/first_steps/img/wetplate_scan_synth_hut.jpg" alt="/set/first_steps/img/wetplate_scan_synth_hut.jpg" title="/set/first_steps/img/wetplate_scan_synth_hut.jpg" /></p>
+<p><img src="/set/first_steps/img/wetplate_scan_Stilllive1.jpg" alt="/set/first_steps/img/wetplate_scan_Stilllive1.jpg" title="/set/first_steps/img/wetplate_scan_Stilllive1.jpg" /></p>
+<p><img src="/set/first_steps/img/wetplate_scan_nuts.jpg" alt="/set/first_steps/img/wetplate_scan_nuts.jpg" title="/set/first_steps/img/wetplate_scan_nuts.jpg" /></p>
+    </div></div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/home_darkroom/">my little darkroom inside my 7m² &#39;bureau&#39;</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2022-05-15 </span>
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      <p>
+This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;)
+So far it works pretty well for wet plate. Next days I will pimp it up a bit.</p>
+<img src="/set/darkroom/img/signal-2022-05-16-220034_001.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_001.jpg" title="the cat!" width="300px"/>
+<img src="/set/darkroom/img/signal-2022-05-16-220034_002.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_002.jpg" title="the cat!" width="300px"/>
+<img src="/set/darkroom/img/signal-2022-05-16-220034_003.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_003.jpg" title="the cat!" width="300px"/>
+<figure>
+<img src="/set/darkroom/img/signal-2022-05-16-220034_004.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_004.jpg" title="the cat!" width="300px"/>
+<figcaption>
+voice control microphone
+</figcaption>
+</figure>
+    </div></div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/mobile_darkroom/">Mobile Darkroom</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2022-05-04 </span>
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      # Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market. We arrived late, only a few dealers were left and most of all the stuff more or less had been boring.
+One stand stood out. There were old lockers from old eastern german NVA stocks, some old metal cabinets, a few suitcases and a lightweight, portable wooden box with metal fittings.
+    </div><div class="read-more">
+      <a href="/post/mobile_darkroom/" class="read-more-link">Read more...</a>
+    </div></div>
+</article>
+
+    </section>
+  
+  <nav class="pagination">
+    
+    <a class="next" href="/page/2/">
+        <span class="next-text">Next</span>
+        <i class="iconfont icon-right"></i>
+      </a>
+  </nav>
+        </div>
+        
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <script src="nocdn/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="nocdn/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="nocdn/jquery.fancybox.min.css" />
+<div class="social-links">
+      <a href="mailto:mars@lichtbringer.blog" class="iconfont icon-email" title="email"></a>
+  <a href="https://lichtbringer.blog/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by  the magic of <a class="hexo-link" href="https://www.gnu.org/software/emacs/">Emacs</a> & <a class="hexo-link" href="https://git-scm.com/">Gitea Actions</a> & <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division"></span>
+  
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2021 - 
+    2024
+    by <span>Cl4rk NovA</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="nocdn/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="nocdn/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="nocdn/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.4ae89da218555efa0e7093a20b92017d2e1202b66fff9fc2edf4cb8d44b44c6e.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

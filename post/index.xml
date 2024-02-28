@@ -1,60 +1,191 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on :::lichtbringer.blog</title><link>https://lichtbringer.blog/post/</link><description>Recent content in Posts on :::lichtbringer.blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lichtbringer.blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>building gh pages sites from withing a private repository</title><link>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</link><pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on :::lichtbringer.blog</title>
+    <link>https://lichtbringer.blog/post/</link>
+    <description>Recent content in Posts on :::lichtbringer.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lichtbringer.blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>building gh pages sites from withing a private repository</title>
+      <link>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</guid>
+      <description>&lt;p&gt;
 To protect my source repo for hugo based static websites, I am trying this solution:
-&lt;a href="https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started">https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&lt;/a>&lt;/p></description></item><item><title>Norway</title><link>https://lichtbringer.blog/post/2023_cinema/</link><pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2023_cinema/</guid><description>&lt;p>
+&lt;a href=&#34;https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&#34;&gt;https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Norway</title>
+      <link>https://lichtbringer.blog/post/2023_cinema/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/2023_cinema/</guid>
+      <description>&lt;p&gt;
 50 miles per hour
-&lt;br />
+&lt;br /&gt;
+
 My guideline for the day.
-&lt;br />
+&lt;br /&gt;
+
 Enjoy the flow.
-&lt;br />
+&lt;br /&gt;
+
 Large panorama open-air cinema time.
-&lt;br />
-In real.&lt;/p></description></item><item><title>First Plates</title><link>https://lichtbringer.blog/post/first_plates/</link><pubDate>Mon, 16 May 2022 17:27:11 +0200</pubDate><guid>https://lichtbringer.blog/post/first_plates/</guid><description>&lt;p>
+&lt;br /&gt;
+
+In real.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Plates</title>
+      <link>https://lichtbringer.blog/post/first_plates/</link>
+      <pubDate>Mon, 16 May 2022 17:27:11 +0200</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/first_plates/</guid>
+      <description>&lt;p&gt;
 learning the wet plate collodion process.
 The first plates, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ thirty plates, glass and tintypes, to come to the first modest results.
 More than 30 plates with bugs and holes, scratches and fog. But the new ones are getting better and better.
 Some issues with expossure, some with the chemicals. But pouring the plates feels very natural now. I am realy surprised.
-There is still a long way to go and a lot to &lt;em>develop&lt;/em> ;) &lt;/p>
-&lt;p>&lt;img src="https://lichtbringer.blog/set/first_steps/img/wetplate_scan_synth_hut.jpg" alt="/set/first_steps/img/wetplate_scan_synth_hut.jpg" title="/set/first_steps/img/wetplate_scan_synth_hut.jpg" />&lt;/p>
-&lt;p>&lt;img src="https://lichtbringer.blog/set/first_steps/img/wetplate_scan_Stilllive1.jpg" alt="/set/first_steps/img/wetplate_scan_Stilllive1.jpg" title="/set/first_steps/img/wetplate_scan_Stilllive1.jpg" />&lt;/p>
-&lt;p>&lt;img src="https://lichtbringer.blog/set/first_steps/img/wetplate_scan_nuts.jpg" alt="/set/first_steps/img/wetplate_scan_nuts.jpg" title="/set/first_steps/img/wetplate_scan_nuts.jpg" />&lt;/p></description></item><item><title>my little darkroom inside my 7m² 'bureau'</title><link>https://lichtbringer.blog/post/home_darkroom/</link><pubDate>Sun, 15 May 2022 17:27:11 +0200</pubDate><guid>https://lichtbringer.blog/post/home_darkroom/</guid><description>&lt;p>
+There is still a long way to go and a lot to &lt;em&gt;develop&lt;/em&gt; ;) &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_nuts.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>my little darkroom inside my 7m² &#39;bureau&#39;</title>
+      <link>https://lichtbringer.blog/post/home_darkroom/</link>
+      <pubDate>Sun, 15 May 2022 17:27:11 +0200</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/home_darkroom/</guid>
+      <description>&lt;p&gt;
 This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;)
-So far it works pretty well for wet plate. Next days I will pimp it up a bit.&lt;/p>
-&lt;img src="https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_001.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_001.jpg" title="the cat!" width="300px"/>
-&lt;img src="https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_002.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_002.jpg" title="the cat!" width="300px"/>
-&lt;img src="https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_003.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_003.jpg" title="the cat!" width="300px"/>
-&lt;figure>
-&lt;img src="https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_004.jpg" alt="/set/darkroom/img/signal-2022-05-16-220034_004.jpg" title="the cat!" width="300px"/>
-&lt;figcaption>
+So far it works pretty well for wet plate. Next days I will pimp it up a bit.&lt;/p&gt;
+&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
+&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
+&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
+&lt;figure&gt;
+&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
+&lt;figcaption&gt;
 voice control microphone
-&lt;/figcaption>
-&lt;/figure></description></item><item><title>Mobile Darkroom</title><link>https://lichtbringer.blog/post/mobile_darkroom/</link><pubDate>Wed, 04 May 2022 17:27:11 +0200</pubDate><guid>https://lichtbringer.blog/post/mobile_darkroom/</guid><description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market. We arrived late, only a few dealers were left and most of all the stuff more or less had been boring.
-One stand stood out. There were old lockers from old eastern german NVA stocks, some old metal cabinets, a few suitcases and a lightweight, portable wooden box with metal fittings.</description></item><item><title>Sunflower Dawn</title><link>https://lichtbringer.blog/post/sonnenblume/</link><pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/sonnenblume/</guid><description>&lt;p>
-&lt;img src="https://lichtbringer.blog/img/sunflower_hambach.jpg" alt="/img/sunflower_hambach.jpg" title="/img/sunflower_hambach.jpg" />&lt;/p>
-&lt;p>
-a sunflower lowers its head - below the fields of Hambach castle - autumn 2021&lt;/p></description></item><item><title>This one is different</title><link>https://lichtbringer.blog/post/2020_2nd_lockdn/</link><pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2020_2nd_lockdn/</guid><description>&lt;p>
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile Darkroom</title>
+      <link>https://lichtbringer.blog/post/mobile_darkroom/</link>
+      <pubDate>Wed, 04 May 2022 17:27:11 +0200</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/mobile_darkroom/</guid>
+      <description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market. We arrived late, only a few dealers were left and most of all the stuff more or less had been boring.
+One stand stood out. There were old lockers from old eastern german NVA stocks, some old metal cabinets, a few suitcases and a lightweight, portable wooden box with metal fittings.</description>
+    </item>
+    
+    <item>
+      <title>Sunflower Dawn</title>
+      <link>https://lichtbringer.blog/post/sonnenblume/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/sonnenblume/</guid>
+      <description>&lt;p&gt;
+&lt;img src=&#34;https://lichtbringer.blog/img/sunflower_hambach.jpg&#34; alt=&#34;/img/sunflower_hambach.jpg&#34; title=&#34;/img/sunflower_hambach.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;
+a sunflower lowers its head - below the fields of Hambach castle - autumn 2021&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>This one is different</title>
+      <link>https://lichtbringer.blog/post/2020_2nd_lockdn/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/2020_2nd_lockdn/</guid>
+      <description>&lt;p&gt;
 This time is different.
-&lt;br />
+&lt;br /&gt;
+
 No total silence - no birds
-&lt;br />
+&lt;br /&gt;
+
 No save enough for jogging on mainstreet.
-&lt;br />
+&lt;br /&gt;
+
 Too much hatred and bias.
-&lt;br />
-The world needs a breather and a psychiatrist&lt;/p></description></item><item><title>Audit</title><link>https://lichtbringer.blog/post/2020_war_boat/</link><pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2020_war_boat/</guid><description>&lt;p>
+&lt;br /&gt;
+
+The world needs a breather and a psychiatrist&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Audit</title>
+      <link>https://lichtbringer.blog/post/2020_war_boat/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/2020_war_boat/</guid>
+      <description>&lt;p&gt;
 If I ever had to make a decision about who to bring on board and whom not
-&lt;br />
+&lt;br /&gt;
+
 In the event of a war or other disaster
-&lt;br />
-I think I&amp;#39;ve made a choice these weeks. &lt;/p></description></item><item><title>Jogging on an empty main street</title><link>https://lichtbringer.blog/post/2020_jogging/</link><pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2020_jogging/</guid><description>&lt;p>
-So gorgeous!&lt;/p></description></item><item><title>lockdown/unlock</title><link>https://lichtbringer.blog/post/2020/</link><pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2020/</guid><description>&lt;p>
+&lt;br /&gt;
+
+I think I&amp;#39;ve made a choice these weeks. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jogging on an empty main street</title>
+      <link>https://lichtbringer.blog/post/2020_jogging/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/2020_jogging/</guid>
+      <description>&lt;p&gt;
+So gorgeous!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>lockdown/unlock</title>
+      <link>https://lichtbringer.blog/post/2020/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/2020/</guid>
+      <description>&lt;p&gt;
 Two possibilities.
-&lt;br />
+&lt;br /&gt;
+
 Both sides of the same coin.
-&lt;br />
+&lt;br /&gt;
+
 Choose wisely.
-&lt;br />
-I choose the third option - as usual&lt;/p></description></item><item><title>Lampyridae</title><link>https://lichtbringer.blog/post/init/</link><pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/init/</guid><description>this is just a placeholder</description></item><item><title>awaiting 2020?</title><link>https://lichtbringer.blog/post/2019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lichtbringer.blog/post/2019/</guid><description>&lt;p>
-&lt;img src="https://lichtbringer.blog/img/wesserling1.jpg" alt="/img/wesserling1.jpg" title="/img/wesserling1.jpg" />&lt;/p>
-&lt;p>
-Parc de Wesserling - 2019&lt;/p></description></item></channel></rss>
+&lt;br /&gt;
+
+I choose the third option - as usual&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lampyridae</title>
+      <link>https://lichtbringer.blog/post/init/</link>
+      <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/init/</guid>
+      <description>this is just a placeholder</description>
+    </item>
+    
+    <item>
+      <title>awaiting 2020?</title>
+      <link>https://lichtbringer.blog/post/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/post/2019/</guid>
+      <description>&lt;p&gt;
+&lt;img src=&#34;https://lichtbringer.blog/img/wesserling1.jpg&#34; alt=&#34;/img/wesserling1.jpg&#34; title=&#34;/img/wesserling1.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;
+Parc de Wesserling - 2019&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
