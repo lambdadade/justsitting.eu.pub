@@ -14,7 +14,7 @@
       
       <guid>https://lichtbringer.blog/post/20240228_org2md/</guid>
       <description>Just a test for markdown in hugo is this a next line?
-And this? Is this a paragraph now?&amp;laquo;hr&amp;gt; and now
+And this? Is this a paragraph now? and now
 flowchart LR y(&#34;👫 You&#34;) --&gt; h{&#34;🤝 Found this helpful?&#34;} h --&gt; |Yes| r[/&#34;⭐ Check out my featured posts!&#34;/] h --&gt; |No| su[/&#34;📝 Suggest changes by clicking near the title&#34;/] click r &#34;/categories/featured&#34; _blank </description>
     </item>
     
