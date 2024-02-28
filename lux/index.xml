@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luxes on :::lichtbringer.blog</title>
+    <link>https://lichtbringer.blog/lux/</link>
+    <description>Recent content in Luxes on :::lichtbringer.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lichtbringer.blog/lux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>wet plate - first steps</title>
+      <link>https://lichtbringer.blog/lux/first_steps/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/lux/first_steps/</guid>
+      <description>learning the wet plate cpllodion process First pictures, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ 30 plates to come to this point.</description>
+    </item>
+    
+    <item>
+      <title>my little darkroom inside my 7m² &#39;bureau&#39;</title>
+      <link>https://lichtbringer.blog/lux/darkroom/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/lux/darkroom/</guid>
+      <description>This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;) So far it works pretty well for wet plate. Next days I will pimp it up a bit. It has a microphone built in where I can set the lights to red, white, on and out via voice control. Also I can set timers via voice. This is controlled via an rasberry pi with rhasspy as voice recognition framework.</description>
+    </item>
+    
+    <item>
+      <title>haardtrand afternoon</title>
+      <link>https://lichtbringer.blog/lux/haardtrand/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/lux/haardtrand/</guid>
+      <description> Haardtrand 2020 </description>
+    </item>
+    
+    <item>
+      <title>Landscape</title>
+      <link>https://lichtbringer.blog/lux/landscape/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/lux/landscape/</guid>
+      <description> Landschaften </description>
+    </item>
+    
+    <item>
+      <title>Kirschen</title>
+      <link>https://lichtbringer.blog/lux/kirschen/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/lux/kirschen/</guid>
+      <description> Kirschen </description>
+    </item>
+    
+    <item>
+      <title>Birds</title>
+      <link>https://lichtbringer.blog/lux/birds/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/lux/birds/</guid>
+      <description> Bird Watching 2020 </description>
+    </item>
+    
+    <item>
+      <title>Burg Waldeck Mai 2020</title>
+      <link>https://lichtbringer.blog/lux/waldeck/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lichtbringer.blog/lux/waldeck/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
