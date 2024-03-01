@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Congo</title>
+    <title>Posts on lichtbringer.blog</title>
     <link>https://lichtbringer.blog/post/</link>
-    <description>Recent content in Posts on Congo</description>
+    <description>Recent content in Posts on lichtbringer.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
@@ -13,14 +13,14 @@
       <link>https://lichtbringer.blog/post/20240228_neckar_odenwald/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/20240228_neckar_odenwald/</guid>
-      <description>Nur ein Gedankenspiel #Aber es zieht mich gerade magisch an&#xA;Wie wäre die Gegend um Heidelberg, am Neckar oder etwas weiter in den Odernwald rein? Sieht echt schick aus. Kulturstadt in der Nähe, Neckar zum Rudern oder Kajak fahren. Und der Odenwald ist traumhaft. Würde mir eigentlich sehr viel besser gefallen, als die Pfalz.</description>
+      <description>Nur ein Gedankenspiel #Aber es zieht mich gerade magisch an</description>
     </item>
     <item>
       <title>From org back to md</title>
       <link>https://lichtbringer.blog/post/20240228_org2md/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/20240228_org2md/</guid>
-      <description>Just a test for markdown in hugo #is this a next line?&#xA;And this? Is this a paragraph now?&#xA;and now&#xA;This is H2 #asdasd ads ada sd d&#xA;and h3 #with a list&#xA;asdasds asdassad asdsdaa asdasd asdadas adsda asdasd asdasdas flowchart LR y(&#34;👫 You&#34;) --&gt; h{&#34;🤝 Found this helpful?&#34;} h --&gt; |Yes| r[/&#34;⭐ Check out my featured posts!&#34;/] h --&gt; |No| su[/&#34;📝 Suggest changes by clicking near the title&#34;</description>
+      <description>Just a test for markdown in hugo #is this a next line?</description>
     </item>
     <item>
       <title>building gh pages sites from withing a private repository</title>
@@ -41,21 +41,21 @@
       <link>https://lichtbringer.blog/post/first_plates/</link>
       <pubDate>Mon, 16 May 2022 17:27:11 +0200</pubDate>
       <guid>https://lichtbringer.blog/post/first_plates/</guid>
-      <description>&lt;p&gt;&#xA;learning the wet plate collodion process.&#xA;The first plates, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ thirty plates, glass and tintypes, to come to the first modest results.&#xA;More than 30 plates with bugs and holes, scratches and fog. But the new ones are getting better and better.&#xA;Some issues with expossure, some with the chemicals. But pouring the plates feels very natural now. I am realy surprised.&#xA;There is still a long way to go and a lot to &lt;em&gt;develop&lt;/em&gt; ;) &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_nuts.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;learning the wet plate collodion process.&#xA;The first plates, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ thirty plates, glass and tintypes, to come to the first modest results.&#xA;More than 30 plates with bugs and holes, scratches and fog. But the new ones are getting better and better.&#xA;Some issues with expossure, some with the chemicals. But pouring the plates feels very natural now. I am realy surprised.&#xA;There is still a long way to go and a lot to &lt;em&gt;develop&lt;/em&gt; ;) &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/lux/first_steps/img/wetplate_scan_synth_hut.jpg&#34; alt=&#34;/lux/first_steps/img/wetplate_scan_synth_hut.jpg&#34; title=&#34;/lux/first_steps/img/wetplate_scan_synth_hut.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/lux/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; alt=&#34;/lux/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; title=&#34;/lux/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/lux/first_steps/img/wetplate_scan_nuts.jpg&#34; alt=&#34;/lux/first_steps/img/wetplate_scan_nuts.jpg&#34; title=&#34;/lux/first_steps/img/wetplate_scan_nuts.jpg&#34; /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>my little darkroom inside my 7m² &#39;bureau&#39;</title>
       <link>https://lichtbringer.blog/post/home_darkroom/</link>
       <pubDate>Sun, 15 May 2022 17:27:11 +0200</pubDate>
       <guid>https://lichtbringer.blog/post/home_darkroom/</guid>
-      <description>&lt;p&gt;&#xA;This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;)&#xA;So far it works pretty well for wet plate. Next days I will pimp it up a bit.&lt;/p&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;figure&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;figcaption&gt;&#xA;voice control microphone&#xA;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;p&gt;&#xA;This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;)&#xA;So far it works pretty well for wet plate. Next days I will pimp it up a bit.&lt;/p&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/lux/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; alt=&#34;/lux/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/lux/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; alt=&#34;/lux/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/lux/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; alt=&#34;/lux/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;figure&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/lux/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; alt=&#34;/lux/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;figcaption&gt;&#xA;voice control microphone&#xA;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Mobile Darkroom</title>
       <link>https://lichtbringer.blog/post/mobile_darkroom/</link>
       <pubDate>Wed, 04 May 2022 17:27:11 +0200</pubDate>
       <guid>https://lichtbringer.blog/post/mobile_darkroom/</guid>
-      <description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market. We arrived late, only a few dealers were left and most of all the stuff more or less had been boring.&#xA;One stand stood out. There were old lockers from old eastern german NVA stocks, some old metal cabinets, a few suitcases and a lightweight, portable wooden box with metal fittings.</description>
+      <description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market.</description>
     </item>
     <item>
       <title>Sunflower Dawn</title>

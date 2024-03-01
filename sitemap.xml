@@ -1,196 +1,189 @@
-<?xml-stylesheet type="text/xsl" href="https://lichtbringer.blog/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://lichtbringer.blog/post/20240228_neckar_odenwald/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/20240228_neckar_odenwald/</loc>
+            <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/20240228_org2md/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/20240228_org2md/</loc>
+            <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</loc>
+            <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/</loc>
+            <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/</loc>
+            <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/2023_cinema/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/2023_cinema/</loc>
+            <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/first_plates/</loc>
-    <lastmod>2022-05-16T17:27:11+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/first_plates/</loc>
+            <lastmod>2022-05-16T17:27:11+02:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/</loc>
+            <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/first_steps/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/first_steps/</loc>
+            <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/home_darkroom/</loc>
-    <lastmod>2022-05-15T17:27:11+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/home_darkroom/</loc>
+            <lastmod>2022-05-15T17:27:11+02:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/darkroom/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/darkroom/</loc>
+            <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/mobile_darkroom/</loc>
-    <lastmod>2022-05-04T17:27:11+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/mobile_darkroom/</loc>
+            <lastmod>2022-05-04T17:27:11+02:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/sonnenblume/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/sonnenblume/</loc>
+            <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/about/</loc>
-    <lastmod>2021-05-06T19:57:22+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/about/</loc>
+            <lastmod>2021-05-06T19:57:22+02:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/2020_2nd_lockdn/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/2020_2nd_lockdn/</loc>
+            <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/haardtrand/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/haardtrand/</loc>
+            <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/landscape/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/landscape/</loc>
+            <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/kirschen/</loc>
-    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/kirschen/</loc>
+            <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/birds/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/birds/</loc>
+            <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/2020_war_boat/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/2020_war_boat/</loc>
+            <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/lux/waldeck/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/lux/waldeck/</loc>
+            <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/2020_jogging/</loc>
-    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/2020_jogging/</loc>
+            <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/2020/</loc>
-    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/2020/</loc>
+            <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/init/</loc>
-    <lastmod>2007-12-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/init/</loc>
+            <lastmod>2007-12-10T00:00:00+00:00</lastmod>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/post/2019/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/post/2019/</loc>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/contact/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
+      <url>
+            <loc>https://lichtbringer.blog/contact/</loc>
+          </url>
+    
   
-  <url>
-    <loc>https://lichtbringer.blog/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    
   
 </urlset>
