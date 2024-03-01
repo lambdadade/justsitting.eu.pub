@@ -5,6 +5,7 @@
     <link>https://lichtbringer.blog/tags/</link>
     <description>Recent content in Tags on :::lichtbringer.blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://lichtbringer.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://lichtbringer.blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

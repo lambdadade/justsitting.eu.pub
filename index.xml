@@ -6,293 +6,168 @@
     <description>Recent content on :::lichtbringer.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lichtbringer.blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lichtbringer.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eine Option zum Wohnen?</title>
       <link>https://lichtbringer.blog/post/20240228_neckar_odenwald/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/20240228_neckar_odenwald/</guid>
-      <description>Nur ein Gedankenspiel Aber es zieht mich gerade magisch an
-Wie wäre die Gegend um Heidelberg, am Neckar oder etwas weiter in den Odernwald rein? Sieht echt schick aus. Kulturstadt in der Nähe, Neckar zum Rudern oder Kajak fahren. Und der Odenwald ist traumhaft. Würde mir eigentlich sehr viel besser gefallen, als die Pfalz.</description>
+      <description>Nur ein Gedankenspiel #Aber es zieht mich gerade magisch an&#xA;Wie wäre die Gegend um Heidelberg, am Neckar oder etwas weiter in den Odernwald rein? Sieht echt schick aus. Kulturstadt in der Nähe, Neckar zum Rudern oder Kajak fahren. Und der Odenwald ist traumhaft. Würde mir eigentlich sehr viel besser gefallen, als die Pfalz.</description>
     </item>
-    
     <item>
       <title>From org back to md</title>
       <link>https://lichtbringer.blog/post/20240228_org2md/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/20240228_org2md/</guid>
-      <description>Just a test for markdown in hugo is this a next line?
-And this? Is this a paragraph now?
-and now
-This is H2 asdasd ads ada sd d
-and h3 with a list
-asdasds asdassad asdsdaa asdasd asdadas adsda asdasd asdasdas flowchart LR y(&#34;👫 You&#34;) --&gt; h{&#34;🤝 Found this helpful?&#34;} h --&gt; |Yes| r[/&#34;⭐ Check out my featured posts!&#34;/] h --&gt; |No| su[/&#34;📝 Suggest changes by clicking near the title&#34;</description>
+      <description>Just a test for markdown in hugo #is this a next line?&#xA;And this? Is this a paragraph now?&#xA;and now&#xA;This is H2 #asdasd ads ada sd d&#xA;and h3 #with a list&#xA;asdasds asdassad asdsdaa asdasd asdadas adsda asdasd asdasdas flowchart LR y(&#34;👫 You&#34;) --&gt; h{&#34;🤝 Found this helpful?&#34;} h --&gt; |Yes| r[/&#34;⭐ Check out my featured posts!&#34;/] h --&gt; |No| su[/&#34;📝 Suggest changes by clicking near the title&#34;</description>
     </item>
-    
     <item>
       <title>building gh pages sites from withing a private repository</title>
       <link>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/2024_gh_pages_from_prv_repo/</guid>
-      <description>&lt;p&gt;
-To protect my source repo for hugo based static websites, I am trying this solution:
-&lt;a href=&#34;https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&#34;&gt;https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;To protect my source repo for hugo based static websites, I am trying this solution:&#xA;&lt;a href=&#34;https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&#34;&gt;https://github.com/peaceiris/actions-gh-pages?tab=readme-ov-file#getting-started&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Norway</title>
       <link>https://lichtbringer.blog/post/2023_cinema/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/2023_cinema/</guid>
-      <description>&lt;p&gt;
-50 miles per hour
-&lt;br /&gt;
-
-My guideline for the day.
-&lt;br /&gt;
-
-Enjoy the flow.
-&lt;br /&gt;
-
-Large panorama open-air cinema time.
-&lt;br /&gt;
-
-In real.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;50 miles per hour&#xA;&lt;br /&gt;&#xA;&#xA;My guideline for the day.&#xA;&lt;br /&gt;&#xA;&#xA;Enjoy the flow.&#xA;&lt;br /&gt;&#xA;&#xA;Large panorama open-air cinema time.&#xA;&lt;br /&gt;&#xA;&#xA;In real.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>First Plates</title>
       <link>https://lichtbringer.blog/post/first_plates/</link>
       <pubDate>Mon, 16 May 2022 17:27:11 +0200</pubDate>
-      
       <guid>https://lichtbringer.blog/post/first_plates/</guid>
-      <description>&lt;p&gt;
-learning the wet plate collodion process.
-The first plates, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ thirty plates, glass and tintypes, to come to the first modest results.
-More than 30 plates with bugs and holes, scratches and fog. But the new ones are getting better and better.
-Some issues with expossure, some with the chemicals. But pouring the plates feels very natural now. I am realy surprised.
-There is still a long way to go and a lot to &lt;em&gt;develop&lt;/em&gt; ;) &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_nuts.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; /&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;learning the wet plate collodion process.&#xA;The first plates, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ thirty plates, glass and tintypes, to come to the first modest results.&#xA;More than 30 plates with bugs and holes, scratches and fog. But the new ones are getting better and better.&#xA;Some issues with expossure, some with the chemicals. But pouring the plates feels very natural now. I am realy surprised.&#xA;There is still a long way to go and a lot to &lt;em&gt;develop&lt;/em&gt; ;) &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_synth_hut.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_Stilllive1.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lichtbringer.blog/set/first_steps/img/wetplate_scan_nuts.jpg&#34; alt=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; title=&#34;/set/first_steps/img/wetplate_scan_nuts.jpg&#34; /&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>wet plate - first steps</title>
       <link>https://lichtbringer.blog/lux/first_steps/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/lux/first_steps/</guid>
       <description>learning the wet plate cpllodion process First pictures, that somehow look like an image. But sure - they are still far from perfect. Shot now ~ 30 plates to come to this point.</description>
     </item>
-    
     <item>
       <title>my little darkroom inside my 7m² &#39;bureau&#39;</title>
       <link>https://lichtbringer.blog/post/home_darkroom/</link>
       <pubDate>Sun, 15 May 2022 17:27:11 +0200</pubDate>
-      
       <guid>https://lichtbringer.blog/post/home_darkroom/</guid>
-      <description>&lt;p&gt;
-This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;)
-So far it works pretty well for wet plate. Next days I will pimp it up a bit.&lt;/p&gt;
-&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
-&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
-&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
-&lt;figure&gt;
-&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;
-&lt;figcaption&gt;
-voice control microphone
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description>
+      <description>&lt;p&gt;&#xA;This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;)&#xA;So far it works pretty well for wet plate. Next days I will pimp it up a bit.&lt;/p&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_001.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_002.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_003.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;figure&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; alt=&#34;/set/darkroom/img/signal-2022-05-16-220034_004.jpg&#34; title=&#34;the cat!&#34; width=&#34;300px&#34;/&gt;&#xA;&lt;figcaption&gt;&#xA;voice control microphone&#xA;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
-    
     <item>
       <title>my little darkroom inside my 7m² &#39;bureau&#39;</title>
       <link>https://lichtbringer.blog/lux/darkroom/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/lux/darkroom/</guid>
       <description>This is a 1.5 m² growing tent converted into a small darkroom in my 7m² office room ;) So far it works pretty well for wet plate. Next days I will pimp it up a bit. It has a microphone built in where I can set the lights to red, white, on and out via voice control. Also I can set timers via voice. This is controlled via an rasberry pi with rhasspy as voice recognition framework.</description>
     </item>
-    
     <item>
       <title>Mobile Darkroom</title>
       <link>https://lichtbringer.blog/post/mobile_darkroom/</link>
       <pubDate>Wed, 04 May 2022 17:27:11 +0200</pubDate>
-      
       <guid>https://lichtbringer.blog/post/mobile_darkroom/</guid>
-      <description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market. We arrived late, only a few dealers were left and most of all the stuff more or less had been boring.
-One stand stood out. There were old lockers from old eastern german NVA stocks, some old metal cabinets, a few suitcases and a lightweight, portable wooden box with metal fittings.</description>
+      <description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market. We arrived late, only a few dealers were left and most of all the stuff more or less had been boring.&#xA;One stand stood out. There were old lockers from old eastern german NVA stocks, some old metal cabinets, a few suitcases and a lightweight, portable wooden box with metal fittings.</description>
     </item>
-    
     <item>
       <title>Sunflower Dawn</title>
       <link>https://lichtbringer.blog/post/sonnenblume/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/sonnenblume/</guid>
-      <description>&lt;p&gt;
-&lt;img src=&#34;https://lichtbringer.blog/img/sunflower_hambach.jpg&#34; alt=&#34;/img/sunflower_hambach.jpg&#34; title=&#34;/img/sunflower_hambach.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;
-a sunflower lowers its head - below the fields of Hambach castle - autumn 2021&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/img/sunflower_hambach.jpg&#34; alt=&#34;/img/sunflower_hambach.jpg&#34; title=&#34;/img/sunflower_hambach.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;a sunflower lowers its head - below the fields of Hambach castle - autumn 2021&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>about</title>
       <link>https://lichtbringer.blog/about/</link>
       <pubDate>Thu, 06 May 2021 19:57:22 +0200</pubDate>
-      
       <guid>https://lichtbringer.blog/about/</guid>
-      <description>just a small ongoing project to line up shards between infinite and meaningless
-…. nothing more
-This website was actually conceived to accompany a positive path in the 2020 pandemic. Very quickly, my ideas were shattered by reality. I then quickly threw over the concept of the website. While sorting, I stumbled across the photo of the sunflower at Hambach Castle. Of course, you can&amp;#39;t see the reference in the photo.</description>
+      <description>just a small ongoing project to line up shards between infinite and meaningless&#xA;…. nothing more&#xA;This website was actually conceived to accompany a positive path in the 2020 pandemic. Very quickly, my ideas were shattered by reality. I then quickly threw over the concept of the website. While sorting, I stumbled across the photo of the sunflower at Hambach Castle. Of course, you can&amp;#39;t see the reference in the photo.</description>
     </item>
-    
     <item>
       <title>This one is different</title>
       <link>https://lichtbringer.blog/post/2020_2nd_lockdn/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/2020_2nd_lockdn/</guid>
-      <description>&lt;p&gt;
-This time is different.
-&lt;br /&gt;
-
-No total silence - no birds
-&lt;br /&gt;
-
-No save enough for jogging on mainstreet.
-&lt;br /&gt;
-
-Too much hatred and bias.
-&lt;br /&gt;
-
-The world needs a breather and a psychiatrist&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;This time is different.&#xA;&lt;br /&gt;&#xA;&#xA;No total silence - no birds&#xA;&lt;br /&gt;&#xA;&#xA;No save enough for jogging on mainstreet.&#xA;&lt;br /&gt;&#xA;&#xA;Too much hatred and bias.&#xA;&lt;br /&gt;&#xA;&#xA;The world needs a breather and a psychiatrist&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>haardtrand afternoon</title>
       <link>https://lichtbringer.blog/lux/haardtrand/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/lux/haardtrand/</guid>
       <description> Haardtrand 2020 </description>
     </item>
-    
     <item>
       <title>Landscape</title>
       <link>https://lichtbringer.blog/lux/landscape/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/lux/landscape/</guid>
       <description> Landschaften </description>
     </item>
-    
     <item>
       <title>Kirschen</title>
       <link>https://lichtbringer.blog/lux/kirschen/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/lux/kirschen/</guid>
       <description> Kirschen </description>
     </item>
-    
     <item>
       <title>Birds</title>
       <link>https://lichtbringer.blog/lux/birds/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/lux/birds/</guid>
       <description> Bird Watching 2020 </description>
     </item>
-    
     <item>
       <title>Audit</title>
       <link>https://lichtbringer.blog/post/2020_war_boat/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/2020_war_boat/</guid>
-      <description>&lt;p&gt;
-If I ever had to make a decision about who to bring on board and whom not
-&lt;br /&gt;
-
-In the event of a war or other disaster
-&lt;br /&gt;
-
-I think I&amp;#39;ve made a choice these weeks. &lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;If I ever had to make a decision about who to bring on board and whom not&#xA;&lt;br /&gt;&#xA;&#xA;In the event of a war or other disaster&#xA;&lt;br /&gt;&#xA;&#xA;I think I&amp;#39;ve made a choice these weeks. &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Burg Waldeck Mai 2020</title>
       <link>https://lichtbringer.blog/lux/waldeck/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/lux/waldeck/</guid>
       <description> </description>
     </item>
-    
     <item>
       <title>Jogging on an empty main street</title>
       <link>https://lichtbringer.blog/post/2020_jogging/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/2020_jogging/</guid>
-      <description>&lt;p&gt;
-So gorgeous!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;So gorgeous!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>lockdown/unlock</title>
       <link>https://lichtbringer.blog/post/2020/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/2020/</guid>
-      <description>&lt;p&gt;
-Two possibilities.
-&lt;br /&gt;
-
-Both sides of the same coin.
-&lt;br /&gt;
-
-Choose wisely.
-&lt;br /&gt;
-
-I choose the third option - as usual&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;Two possibilities.&#xA;&lt;br /&gt;&#xA;&#xA;Both sides of the same coin.&#xA;&lt;br /&gt;&#xA;&#xA;Choose wisely.&#xA;&lt;br /&gt;&#xA;&#xA;I choose the third option - as usual&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lampyridae</title>
       <link>https://lichtbringer.blog/post/init/</link>
       <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/init/</guid>
       <description>this is just a placeholder</description>
     </item>
-    
     <item>
       <title>awaiting 2020?</title>
       <link>https://lichtbringer.blog/post/2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/post/2019/</guid>
-      <description>&lt;p&gt;
-&lt;img src=&#34;https://lichtbringer.blog/img/wesserling1.jpg&#34; alt=&#34;/img/wesserling1.jpg&#34; title=&#34;/img/wesserling1.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;
-Parc de Wesserling - 2019&lt;/p&gt;</description>
+      <description>&lt;p&gt;&#xA;&lt;img src=&#34;https://lichtbringer.blog/img/wesserling1.jpg&#34; alt=&#34;/img/wesserling1.jpg&#34; title=&#34;/img/wesserling1.jpg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;Parc de Wesserling - 2019&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>contact</title>
       <link>https://lichtbringer.blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://lichtbringer.blog/contact/</guid>
       <description>please use this form on google forms so far https://docs.google.com/forms/d/e/1FAIpQLSeQ20xXeKqLfzxXFCWv4_GV61cvyepb2t7KeX4ly1_NJa4h5w/viewform</description>
     </item>
-    
   </channel>
 </rss>
