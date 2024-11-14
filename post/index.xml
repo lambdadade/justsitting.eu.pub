@@ -4,7 +4,7 @@
     <title>Posts on lichtbringer.blog</title>
     <link>https://lichtbringer.blog/post/</link>
     <description>Recent content in Posts on lichtbringer.blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lichtbringer.blog/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://lichtbringer.blog/post/20240228_neckar_odenwald/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/20240228_neckar_odenwald/</guid>
-      <description>Nur ein Gedankenspiel #Aber es zieht mich gerade magisch an</description>
+      <description></description>
     </item>
     <item>
       <title>2 From org back to md</title>
       <link>https://lichtbringer.blog/post/20240228_org2md/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/20240228_org2md/</guid>
-      <description>Just a test for markdown in hugo #is this a next line?</description>
+      <description></description>
     </item>
     <item>
       <title>building gh pages sites from withing a private repository</title>
@@ -55,7 +55,7 @@
       <link>https://lichtbringer.blog/post/mobile_darkroom/</link>
       <pubDate>Wed, 04 May 2022 17:27:11 +0200</pubDate>
       <guid>https://lichtbringer.blog/post/mobile_darkroom/</guid>
-      <description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market.</description>
+      <description></description>
     </item>
     <item>
       <title>Sunflower Dawn</title>
@@ -97,7 +97,7 @@
       <link>https://lichtbringer.blog/post/init/</link>
       <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/init/</guid>
-      <description>this is just a placeholder</description>
+      <description></description>
     </item>
     <item>
       <title>awaiting 2020?</title>

@@ -4,7 +4,7 @@
     <title>lichtbringer.blog</title>
     <link>https://lichtbringer.blog/</link>
     <description>Recent content on lichtbringer.blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lichtbringer.blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://lichtbringer.blog/post/20240228_neckar_odenwald/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/20240228_neckar_odenwald/</guid>
-      <description>Nur ein Gedankenspiel #Aber es zieht mich gerade magisch an</description>
+      <description></description>
     </item>
     <item>
       <title>2 From org back to md</title>
       <link>https://lichtbringer.blog/post/20240228_org2md/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/20240228_org2md/</guid>
-      <description>Just a test for markdown in hugo #is this a next line?</description>
+      <description></description>
     </item>
     <item>
       <title>building gh pages sites from withing a private repository</title>
@@ -62,14 +62,14 @@
       <link>https://lichtbringer.blog/lux/darkroom/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/darkroom/</guid>
-      <description>This is a 1.</description>
+      <description></description>
     </item>
     <item>
       <title>Mobile Darkroom</title>
       <link>https://lichtbringer.blog/post/mobile_darkroom/</link>
       <pubDate>Wed, 04 May 2022 17:27:11 +0200</pubDate>
       <guid>https://lichtbringer.blog/post/mobile_darkroom/</guid>
-      <description># Two days after the first attempts with collodion, I spontaneously had the idea of looking for some accessories at an antique market.</description>
+      <description></description>
     </item>
     <item>
       <title>Sunflower Dawn</title>
@@ -83,7 +83,7 @@
       <link>https://lichtbringer.blog/about/</link>
       <pubDate>Thu, 06 May 2021 19:57:22 +0200</pubDate>
       <guid>https://lichtbringer.blog/about/</guid>
-      <description>just a small ongoing project to line up shards between infinite and meaningless</description>
+      <description></description>
     </item>
     <item>
       <title>This one is different</title>
@@ -97,28 +97,28 @@
       <link>https://lichtbringer.blog/lux/haardtrand/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/haardtrand/</guid>
-      <description> Haardtrand 2020 </description>
+      <description></description>
     </item>
     <item>
       <title>Landscape</title>
       <link>https://lichtbringer.blog/lux/landscape/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/landscape/</guid>
-      <description> Landschaften </description>
+      <description></description>
     </item>
     <item>
       <title>Kirschen</title>
       <link>https://lichtbringer.blog/lux/kirschen/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/kirschen/</guid>
-      <description> Kirschen </description>
+      <description></description>
     </item>
     <item>
       <title>Birds</title>
       <link>https://lichtbringer.blog/lux/birds/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/birds/</guid>
-      <description> Bird Watching 2020 </description>
+      <description></description>
     </item>
     <item>
       <title>Audit</title>
@@ -132,7 +132,7 @@
       <link>https://lichtbringer.blog/lux/waldeck/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/waldeck/</guid>
-      <description> </description>
+      <description></description>
     </item>
     <item>
       <title>Jogging on an empty main street</title>
@@ -153,7 +153,7 @@
       <link>https://lichtbringer.blog/post/init/</link>
       <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/post/init/</guid>
-      <description>this is just a placeholder</description>
+      <description></description>
     </item>
     <item>
       <title>awaiting 2020?</title>
@@ -167,7 +167,7 @@
       <link>https://lichtbringer.blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/contact/</guid>
-      <description>please use this form on google forms so far https://docs.</description>
+      <description></description>
     </item>
   </channel>
 </rss>

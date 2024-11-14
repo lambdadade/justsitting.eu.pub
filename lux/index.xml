@@ -4,7 +4,7 @@
     <title>Luxes on lichtbringer.blog</title>
     <link>https://lichtbringer.blog/lux/</link>
     <description>Recent content in Luxes on lichtbringer.blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lichtbringer.blog/lux/index.xml" rel="self" type="application/rss+xml" />
@@ -20,42 +20,42 @@
       <link>https://lichtbringer.blog/lux/darkroom/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/darkroom/</guid>
-      <description>This is a 1.</description>
+      <description></description>
     </item>
     <item>
       <title>haardtrand afternoon</title>
       <link>https://lichtbringer.blog/lux/haardtrand/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/haardtrand/</guid>
-      <description> Haardtrand 2020 </description>
+      <description></description>
     </item>
     <item>
       <title>Landscape</title>
       <link>https://lichtbringer.blog/lux/landscape/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/landscape/</guid>
-      <description> Landschaften </description>
+      <description></description>
     </item>
     <item>
       <title>Kirschen</title>
       <link>https://lichtbringer.blog/lux/kirschen/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/kirschen/</guid>
-      <description> Kirschen </description>
+      <description></description>
     </item>
     <item>
       <title>Birds</title>
       <link>https://lichtbringer.blog/lux/birds/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/birds/</guid>
-      <description> Bird Watching 2020 </description>
+      <description></description>
     </item>
     <item>
       <title>Burg Waldeck Mai 2020</title>
       <link>https://lichtbringer.blog/lux/waldeck/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>https://lichtbringer.blog/lux/waldeck/</guid>
-      <description> </description>
+      <description></description>
     </item>
   </channel>
 </rss>
